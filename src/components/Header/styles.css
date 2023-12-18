@@ -19,3 +19,8 @@
  gap: 71px;
  color: var(--primary-color);
 }
+
+li:hover {
+    color: var(--orange-gradient);
+    cursor: pointer;
+}
