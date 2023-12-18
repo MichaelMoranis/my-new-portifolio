@@ -1,5 +1,5 @@
 import "./styles.css"
-import ImgProfile from "../../assets/Avatar.svg"
+import ImgProfile from "../../assets/perfil.jpg"
 
  
  function Profile() {

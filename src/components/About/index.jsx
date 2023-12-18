@@ -1,8 +1,9 @@
 import "./styles.css";
 
-function About({ text }) {
+function About({ text, special }) {
+  const className = special ? "projects" : "text"
   return (
-    <div className="text">
+    <div className={className}>
         {text}.
     </div>
   );

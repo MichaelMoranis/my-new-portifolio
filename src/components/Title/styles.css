@@ -1,6 +1,7 @@
 .container-title {
  text-align: center;
  color: var(--primary-color);
+ margin: 3rem auto;
 }
 
 .title {

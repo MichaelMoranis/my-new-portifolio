@@ -21,6 +21,9 @@ function App() {
       <Button />
       <About text="EXPERIENCE WITH" />
       <Tags />
+      <About 
+       text="PROJECTS"
+       special="#" />
     </>
   );
 }
