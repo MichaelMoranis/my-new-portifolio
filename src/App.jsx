@@ -3,6 +3,8 @@ import Button from "./components/Button";
 import Header from "./components/Header";
 import Profile from "./components/Profile";
 import Title from "./components/Title";
+import Tags from "./components/Tags";
+
 
 function App() {
   return (
@@ -17,9 +19,8 @@ function App() {
       Amazon AWS platform."
       />
       <Button />
-      <About
-        text="Experience with"
-      />
+      <About text="EXPERIENCE WITH" />
+      <Tags />
     </>
   );
 }
