@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Profile from "./components/Profile";
 import Title from "./components/Title";
 import Tags from "./components/Tags";
+import Projects from "./components/Projects";
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <About 
        text="PROJECTS"
        special="#" />
+       <Projects />
     </>
   );
 }
