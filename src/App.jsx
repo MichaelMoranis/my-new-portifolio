@@ -26,6 +26,10 @@ function App() {
        text="PROJECTS"
        special="#" />
        <Projects />
+       <About 
+         text="EXPERIENCE"
+         special="$"
+       />
     </>
   );
 }
