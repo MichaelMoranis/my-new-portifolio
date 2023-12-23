@@ -1,9 +1,9 @@
 import './styles.css'
-import Js from "../../assets/javascript.svg"
-import Css from "../../assets/css.svg"
-import NodeJs from "../../assets/nodejs.svg"
-import Html from "../../assets/html.svg"
-import ReactJs from "../../assets/reactjs.svg"
+import Js from "@assets/javascript.svg"
+import Css from "@assets/css.svg"
+import NodeJs from "@assets/nodejs.svg"
+import Html from "@assets/html.svg"
+import ReactJs from "@assets/reactjs.svg"
 
 
 

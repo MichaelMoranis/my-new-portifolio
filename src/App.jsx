@@ -1,11 +1,11 @@
 import About from "./components/About";
-import Button from "./components/Button";
-import Header from "./components/Header";
-import Profile from "./components/Profile";
-import Title from "./components/Title";
-import Tags from "./components/Tags";
-import Projects from "./components/Projects";
-import ContainerText from "./components/ContainerText";
+import Button from "@components/Button";
+import Header from "@components/Header";
+import Profile from "@components/Profile";
+import Title from "@components/Title";
+import Tags from "@components/Tags";
+import Projects from "@components/Projects";
+import ContainerText from "@components/ContainerText";
 
 
 function App() {

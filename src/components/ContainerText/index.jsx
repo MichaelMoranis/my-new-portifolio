@@ -1,6 +1,6 @@
 import "./styles.css"
-import googleIcon from "../../assets/google-logo.svg"
-import metaIcon from "../../assets/meta-logo.svg"
+import googleIcon from "@assets/google-logo.svg"
+import metaIcon from "@assets/meta-logo.svg"
 
 function ContainerText() {
   return (

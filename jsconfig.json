@@ -1,0 +1,18 @@
+{
+ "compilerOptions": {
+   "baseUrl": "./src",
+   "paths": {
+      "@components/*": ["components/*"],
+      "@styles/*": ["styles/*"],
+      "@assets/*":["assets/*"]
+   },
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "jsx": "react",
+    "strict": true,
+    "esModuleInterop": true,
+ },
+ "include": ["src/**/*.js", "src/**/*.jsx", "src/**/*.tsx"],
+ "exclude": ["node_modules", "build", "Dispatches"]
+}
