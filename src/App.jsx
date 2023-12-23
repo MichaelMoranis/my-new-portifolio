@@ -5,6 +5,7 @@ import Profile from "./components/Profile";
 import Title from "./components/Title";
 import Tags from "./components/Tags";
 import Projects from "./components/Projects";
+import ContainerText from "./components/ContainerText";
 
 
 function App() {
@@ -24,12 +25,13 @@ function App() {
       <Tags />
       <About 
        text="PROJECTS"
-       special="#" />
+       special="PROJECTS" />
        <Projects />
        <About 
          text="EXPERIENCE"
-         special="$"
+         special="EXPERIENCE"
        />
+       <ContainerText />
     </>
   );
 }
